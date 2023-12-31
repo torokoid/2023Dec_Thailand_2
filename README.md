@@ -204,6 +204,11 @@ p.note { display: none; }
 <br><br>
 <p>以下動画集</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79X3-LVpDfg?si=Evdxj3LMxi0OgVP-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XCMEwoaAJak?si=XCjXRDxSJ1w6anBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nwDzsqZ_PUk?si=cxsYELnrSNY-XT0H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br><br><br><br><br><br>
 
