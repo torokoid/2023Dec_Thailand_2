@@ -123,7 +123,7 @@ p.note { display: none; }
 <h1><span class="yellow"><marquee behavior="left">!!! 2023/12/30 、タイ旅行 !!!</marquee></span></h1>
 
 <div style="background-color:rgb(255,255,255,0.5);">
-<p class="topicpath"><a href="https://torokoid.github.io/2023Dec_Thailand/">Thailand</a>>Thailand_2</p></div>
+<p class="topicpath"><a href="https://torokoid.github.io/2023Dec_Thailand/">Thailand</a>>Thailand_2><a href="https://torokoid.github.io/2023Dec_Thailand_3/">Thailand_3</a></p></div>
 
 <!--ここから下が、本体部分-->
 <br><p>タイ旅行</p>
